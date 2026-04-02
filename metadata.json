@@ -1,0 +1,5 @@
+{
+  "name": "Global Messenger",
+  "description": "A modern, real-time global chat application with private messaging, groups, and media sharing.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
